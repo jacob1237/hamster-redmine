@@ -21,7 +21,7 @@ All done. Now you can use it.
 Usage
 ---------------
 
-./hamster-redmine.py [-h] [-c C] [-d D] [-p PROJECT] [-t T]
+    ./hamster-redmine.py [-h] [-c C] [-d D] [-p PROJECT] [-t T]
 
 optional arguments:
 
